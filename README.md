@@ -19,4 +19,4 @@ One way to check your version of JRE is typing `java -version` in windows comman
 
 ## License
 
-This project is licensed under the GNU GPLv3  - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU GPLv3  - see the [LICENSE.txt](LICENSE.txt) file for details
